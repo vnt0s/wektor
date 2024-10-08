@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1728413211 source:e:\informatyka\codeblocks projekty\zad 4\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+
